@@ -1,3 +1,9 @@
+![](https://cdn-images-1.medium.com/max/1600/1*nT_9s_j0MZOWYxrf5D6TqQ.png)
+
+Here is a simple react web app using this the llamaindex server to answer questions based on the doc in the server.
+
+![](https://cdn-images-1.medium.com/max/1600/1*jMgxgS6AVUP2XgIgbpSLqw.png)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -17,12 +23,12 @@ If you are developing a production application, we recommend updating the config
 export default {
   // other rules...
   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
+    ecmaVersion: "latest",
+    sourceType: "module",
+    project: ["./tsconfig.json", "./tsconfig.node.json"],
     tsconfigRootDir: __dirname,
   },
-}
+};
 ```
 
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
