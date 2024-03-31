@@ -4,6 +4,10 @@ Here is a simple react web app using this the llamaindex server to answer questi
 
 ![](https://cdn-images-1.medium.com/max/1600/1*jMgxgS6AVUP2XgIgbpSLqw.png)
 
+| [Server Github](https://github.com/sisoalbert/node-llamaindex-server) | [Web App Github ](https://github.com/sisoalbert/Reactjs-LlamaIndex-app) |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| SERVER                                                                | WEB APP                                                                 |
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
